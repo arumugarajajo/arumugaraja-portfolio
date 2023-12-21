@@ -2,9 +2,10 @@ export const Bio = {
   name: "Arumuga Raja P",
   roles: ["Front-End Developer", "Full Stack Developer"],
   description:
-    "I am a dynamic and adaptable professional, continuously driven by the pursuit of new challenges. My journey is marked by the creation of industry-grade projects from inception, showcasing a diverse arsenal of technological skills that power innovation. Curious to witness my prowess in action? Explore my impressive portfolio below. With contagious positivity and an unwavering growth mindset, I'm poised to make a significant impact and achieve extraordinary milestones.",
+    "Accomplished Front-end Developer with over 2 years of expertise in optimizing high-performance web apps. Noted for accelerating page loads by 20%, leading to remarkable conversion rate surges. Mastery of cutting-edge JavaScript tech, particularly React.js, for crafting dynamic interfaces. Pioneered innovative methods, reducing dev time by 15% and elevating site performance by 20%. Proficient in seamless team collaboration, ensuring precise project delivery. Committed to ongoing learning, driving top-tier development strategies.",
   github: "https://github.com/arumugarajajo",
-  resume: "https://drive.google.com/file/d/1pWnT0_vlcfSOSLcy2f7aYpWN5iS8iryT/view?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/1pWnT0_vlcfSOSLcy2f7aYpWN5iS8iryT/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/arumuga-raja-p-931110243/",
   twitter: "https://www.instagram.com/_raja_jo/?next=%2F",
   insta: "https://www.instagram.com/_raja_jo/?next=%2F",
@@ -335,11 +336,11 @@ export const projects = [
       "Node Js",
       "Material UI Grid",
       "Netlify",
-      "Deployment"
+      "Deployment",
     ],
     category: "web app",
     github:
-      "https://github.com/arumugarajajo/arumugarajajo-ME_QKART_FRONTEND_V2/tree/master",
+      "https://github.com/arumugarajajo/arumugarajajo-ME_QKART_FRONTEND_V2",
     webapp: "https://arumugarajajo-me-qkart-frontend-v2-98mvxov4p.vercel.app/",
   },
 
@@ -389,7 +390,7 @@ export const projects = [
       "https://raw.githubusercontent.com/arumugarajajo/images/main/igimg.png",
     tags: [
       "React Js",
-      "Material UI ",
+      "Material UI",
       "JavaScript",
       "Responsive Design",
       "HTML",
@@ -411,11 +412,18 @@ export const projects = [
       "CoinCap is a cryptocurrency market tracking platform that provides real-time information about various cryptocurrencies, including their prices, market capitalization, volume, historical data, and trends..",
     image:
       "https://raw.githubusercontent.com/arumugarajajo/images/main/coincap.png",
-    tags: ["ReactJS", "JavaScript (ES6+)", "API", "Data Visualization", "Routing", "UI/UX Design","Testing"],
+    tags: [
+      "ReactJS",
+      "JavaScript (ES6+)",
+      "API",
+      "Data Visualization",
+      "Routing",
+      "UI/UX Design",
+      "Testing",
+    ],
     category: "web app",
     github: "https://github.com/arumugarajajo/coincap-ui",
     webapp: "https://coincap-ui.netlify.app/",
-    
   },
   {
     id: 3,
@@ -425,7 +433,20 @@ export const projects = [
       "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.",
     image:
       "https://raw.githubusercontent.com/arumugarajajo/images/main/dy1.png",
-    tags: ["ReactJS", "JavaScript", "Bootstrap Carouse", "Event Handling","localStorage","Conditional Rendering","Netlify","Heroku","Deployment","Netlify CLI","Responsive Design","Bootstrap",],
+    tags: [
+      "ReactJS",
+      "JavaScript",
+      "Bootstrap Carouse",
+      "Event Handling",
+      "localStorage",
+      "Conditional Rendering",
+      "Netlify",
+      "Heroku",
+      "Deployment",
+      "Netlify CLI",
+      "Responsive Design",
+      "Bootstrap",
+    ],
     category: ["web app,android app"],
     github: "https://github.com/arumugarajajo/arumugarajajo-ME_QTRIPDYNAMIC",
     webapp: "https://resonant-gaufre-680b65.netlify.app/",
