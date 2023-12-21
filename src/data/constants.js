@@ -181,9 +181,8 @@ export const experiences = [
     role: "Full Stack Developer",
     company: "Zoho Corporation",
     date: "Dec 2021 - July 2023",
-    desc: "Working on Asset Management, Module QA, customer support, and automation.",
+    desc: "Front End Development, Customer Support, API Automation, Problem-Solving, Asset Explorer Products, User Interface Enhancement, Technical Assistance, Cross-Functional Collaboration.",
     skills: [
-      "Docker",
       "ReactJS",
       "JavaScript",
       "Postman",
@@ -194,6 +193,7 @@ export const experiences = [
       "Java",
       "Node Js",
       "MS SQL",
+      "Docker",
       "Mercurial (hg)",
     ],
   },
