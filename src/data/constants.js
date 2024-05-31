@@ -5,7 +5,7 @@ export const Bio = {
     "Accomplished Front-end Developer with over 2 years of expertise in optimizing high-performance web apps. Noted for accelerating page loads by 20%, leading to remarkable conversion rate surges. Mastery of cutting-edge JavaScript tech, particularly React.js, for crafting dynamic interfaces. Pioneered innovative methods, reducing dev time by 15% and elevating site performance by 20%. Proficient in seamless team collaboration, ensuring precise project delivery. Committed to ongoing learning, driving top-tier development strategies.",
   github: "https://github.com/arumugarajajo",
   resume:
-    "https://drive.google.com/file/d/1pWnT0_vlcfSOSLcy2f7aYpWN5iS8iryT/view?usp=sharing",
+    "https://drive.google.com/file/d/186zmcgIIYy8cKihL3tdzk9tFUmUVRjhC/view",
   linkedin: "https://www.linkedin.com/in/arumuga-raja-p-931110243/",
   twitter: "https://www.instagram.com/_raja_jo/?next=%2F",
   insta: "https://www.instagram.com/_raja_jo/?next=%2F",
@@ -380,9 +380,9 @@ export const projects = [
   },
   {
     id: 13,
-    title: "Recaman-sequence",
+    title: "Countdown Timer",
     date: "May 2024",
-    description: " recaman-sequence",
+    description: "Countdown Timer",
     image:
       "https://raw.githubusercontent.com/arumugarajajo/images/main/timer.png",
     tags: [
@@ -403,9 +403,9 @@ export const projects = [
 
   {
     id: 14,
-    title: "  Countdown Timer",
+    title: "  Messager",
     date: "April 2024",
-    description: "Countdown Timer",
+    description: "Messager",
     image:
       "https://raw.githubusercontent.com/arumugarajajo/images/main/messenger.png",
     tags: [
@@ -423,34 +423,10 @@ export const projects = [
   },
 
   {
-    id: 9,
-    title: "IGSTUDIO",
-    date: "DEC-2023",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://raw.githubusercontent.com/arumugarajajo/images/main/igimg.png",
-    tags: [
-      "React Js",
-      "Material UI",
-      "JavaScript",
-      "Responsive Design",
-      "HTML",
-      "CSS",
-      "UI/UX Design",
-      "Netlify",
-      "Deployment",
-    ],
-    category: "web app",
-    github: "https://github.com/arumugarajajo/IGSTUDIO",
-    webapp: "https://igstudios.netlify.app/",
-  },
-
-  {
     id: 12,
-    title: "  Countdown Timer",
+    title: "Recaman-sequence",
     date: "April 2024",
-    description: "Countdown Timer",
+    description: "Recaman-sequence",
     image:
       "https://raw.githubusercontent.com/arumugarajajo/images/main/Screenshot%202024-05-28%20143024.png",
     tags: ["JavaScript", "HTML", "CSS"],
@@ -484,6 +460,30 @@ export const projects = [
     github: "https://github.com/arumugarajajo/arumugarajajo-ME_QTRIPDYNAMIC",
     webapp: "https://resonant-gaufre-680b65.netlify.app/",
   },
+
+  // {
+  //   id: 9,
+  //   title: "IGSTUDIO",
+  //   date: "DEC-2023",
+  //   description:
+  //     "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+  //   image:
+  //     "https://raw.githubusercontent.com/arumugarajajo/images/main/igimg.png",
+  //   tags: [
+  //     "React Js",
+  //     "Material UI",
+  //     "JavaScript",
+  //     "Responsive Design",
+  //     "HTML",
+  //     "CSS",
+  //     "UI/UX Design",
+  //     "Netlify",
+  //     "Deployment",
+  //   ],
+  //   category: "web app",
+  //   github: "https://github.com/arumugarajajo/IGSTUDIO",
+  //   webapp: "https://igstudios.netlify.app/",
+  // },
   {
     id: 10,
     title: "QTripStatic",
